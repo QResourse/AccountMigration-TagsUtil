@@ -1,0 +1,10 @@
+<CONFIG>
+<CONFIG-ITEM>
+<SOURCE_BASE_URL>https://qualysapi.qualys.com</SOURCE_BASE_URL>
+<SOURCE_USERNAME>replace-name</SOURCE_USERNAME>
+<SOURCE_PASSWORD>replace-password</SOURCE_PASSWORD>
+<TARGET_BASE_URL>https://qualysapi.qg1.apps.qualys.com.au</TARGET_BASE_URL>
+<TARGET_USERNAME>replace-name</TARGET_USERNAME>
+<TARGET_PASSWORD>replace-password</TARGET_PASSWORD>
+</CONFIG-ITEM>
+</CONFIG>
